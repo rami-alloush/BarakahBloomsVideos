@@ -1,0 +1,17 @@
+# Surah An-Naas audio — corrected segment map (seconds, ±~0.3s)
+# Derived from sliding-window transcription (1.25s and 0.9s windows) + RMS dips.
+# The speaker recites each verse in Arabic, then explains it in English.
+0.00-1.90   EN  "Surah An-Naas, a person says"
+1.95-3.30   AR  قُلْ أَعُوذُ بِرَبِّ النَّاسِ
+3.40-7.60   EN  "I seek protection from Allah Subhanahu wa Ta'ala, the Lord of the people,"  ("Lord of the people" ~6.7)
+7.70-9.15   AR  مَلِكِ النَّاسِ
+9.20-10.00  EN  "the King of the people,"
+10.10-11.45 AR  إِلَٰهِ النَّاسِ
+11.50-13.40 EN  "the Lord/God of the people,"
+13.85-15.05 AR  مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
+15.10-19.30 EN  "from the evil of the one who whispers and goes away."  ("goes away" ~18.4)
+19.30-28.05 EN  "Ibn Abbas (RA) says that Shaytan ... whispers when a person is unmindful. Whenever he remembers Allah SWT, he disappears." ("Whenever" ~25.2, "disappears" ~27.35)
+28.10-30.20 AR  الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
+30.30-33.20 EN  "the one who whispers into the chests of the people,"
+33.30-34.90 AR  مِنَ الْجِنَّةِ وَالنَّاسِ
+35.00-37.40 EN  "from the jinn as well as the people."

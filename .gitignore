@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Node / Remotion
+node_modules/
+remotion/out/
+remotion/build/
+*.log
+.env*
+
+# Whisper model (~480MB, re-downloadable)
+whisper_models/
+
+# Rendered videos and verification stills (regenerable)
+*.mp4
+stills/
+
+# Raw downloads and intermediates (copies live in remotion/public/)
+Meaning of Surah*.mp3
+*.wav
+remotion_project.zip

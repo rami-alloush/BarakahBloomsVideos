@@ -1,0 +1,16 @@
+# Surah Al-Falaq audio — corrected segment map (seconds, ±~0.3s)
+# Derived from 1.25s sliding-window transcription + RMS dips. The speaker recites each
+# verse in Arabic, then explains it in English. (Full-clip whisper ignored the Arabic.)
+0.00-1.45   EN  "Surah Al-Falaq,"
+1.45-1.95   EN  "a person says"
+1.95-3.65   AR  قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
+3.65-8.00   EN  "I seek the protection of the Lord of the Dawn."   ("Lord" ~6.0, "Dawn" ~7.4)
+8.00-14.20  EN  "Some of the scholars mention here, a person is asking Allah SWT to protect them from all evil."
+14.25-15.20 AR  مِن شَرِّ مَا خَلَقَ
+15.20-17.95 EN  "from all the evil that He has created,"
+18.00-20.20 AR  وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+20.25-24.10 EN  "and from the evil that occurs in the darkest parts of the night,"
+24.15-26.75 AR  وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
+26.80-29.55 EN  "and from the evil of those magicians who blow on knots."
+29.60-31.85 AR  وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+31.95-37.65 EN  "And from the evil of the one who has jealousy and envy, when they have this jealousy and envy."
