@@ -1,0 +1,21 @@
+# Omar Suleiman reminder "Whoever reads Surah Ikhlas 10 times" — segment map (seconds, ±~0.3s)
+# Derived from 1.25s sliding-window transcription + RMS dips. NOT an Adnaan Menk short:
+# English hadith + reminder first (with one Arabic quote), then a full recitation of Al-Ikhlas.
+0.00-1.95   EN  "The Prophet ﷺ said,"
+2.00-3.00   EN  "Whoever reads"
+3.00-4.20   AR  قُلْ هُوَ اللَّهُ أَحَدٌ   (quoted as the surah's name)
+4.20-5.35   EN  "10 times,"
+5.40-8.30   EN  "Allah ﷻ will build that person a home in Jannah."   ("build" ~6.2, "Jannah" ~7.6)
+8.30-11.10  EN  "SubhanAllah, the reward of this surah,"
+11.20-13.35 EN  "and you read the surah 10 times,"   ("10 times" ~12.5)
+13.40-16.20 EN  "and it's not something that you can only do once a day,"
+16.50-18.70 EN  "and it could be done in a couple of minutes,"   ("minutes" ~17.9)
+18.70-21.00 EN  "and Allah ﷻ builds you a palace in Jannah."   ("palace" ~20.4)
+21.00-23.90 EN  "So what if you read it 20 or 30 or 40 times a day?"   ("20" ~22.0, "30" ~22.8, "40" ~23.4)
+24.00-24.70 --  pause
+24.75-31.50 AR  بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ   (slow, melodic recitation)
+31.60-34.45 AR  قُلْ هُوَ اللَّهُ أَحَدٌ
+34.50-37.25 AR  اللَّهُ الصَّمَدُ
+37.30-40.40 AR  لَمْ يَلِدْ وَلَمْ يُولَدْ   ("wa lam yulad" ~38.6)
+40.45-44.40 AR  وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
+44.70       end of audio

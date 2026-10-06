@@ -6,6 +6,7 @@ import {IkhlasVerticalFr, TOTAL_V_FR} from './ikhlas/IkhlasVerticalFr';
 import {IkhlasVerticalEs, TOTAL_V_ES} from './ikhlas/IkhlasVerticalEs';
 import {NaasVertical, TOTAL_V_NAAS} from './naas/NaasVertical';
 import {FalaqVertical, TOTAL_V_FALAQ} from './falaq/FalaqVertical';
+import {Ikhlas10Vertical, TOTAL_V_IKHLAS10} from './ikhlas10/Ikhlas10Vertical';
 export const RemotionRoot: React.FC = () => (
   <>
     <Composition id="Ikhlas" component={Ikhlas} durationInFrames={TOTAL} fps={30} width={1920} height={1080} />
@@ -14,5 +15,6 @@ export const RemotionRoot: React.FC = () => (
     <Composition id="IkhlasVerticalFr" component={IkhlasVerticalFr} durationInFrames={TOTAL_V_FR} fps={30} width={1080} height={1920} />
     <Composition id="NaasVertical" component={NaasVertical} durationInFrames={TOTAL_V_NAAS} fps={30} width={1080} height={1920} />
     <Composition id="FalaqVertical" component={FalaqVertical} durationInFrames={TOTAL_V_FALAQ} fps={30} width={1080} height={1920} />
+    <Composition id="Ikhlas10Vertical" component={Ikhlas10Vertical} durationInFrames={TOTAL_V_IKHLAS10} fps={30} width={1080} height={1920} />
   </>
 );

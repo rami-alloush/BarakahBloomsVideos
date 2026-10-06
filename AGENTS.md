@@ -1,7 +1,7 @@
 # BarakahBlooms surah explainer videos
 
 Kids' animated explainers (Remotion, 1080x1920 vertical, 30fps) built over Adnaan Menk "Meaning of Surah X" YouTube Shorts audio.
-Done so far: Ikhlas (16:9, vertical, ES, FR), Naas (vertical), Falaq (vertical).
+Done so far: Ikhlas (16:9, vertical, ES, FR), Naas (vertical), Falaq (vertical), Ikhlas10 (vertical — Omar Suleiman reminder, not an Adnaan Menk short).
 
 **New video from a link: use the `surah-video` skill** (`.devin/skills/surah-video/SKILL.md`). It has scripts for prepare/new/stills/render, a template with every helper, and a scene-recipe catalog.
 
