@@ -3,6 +3,8 @@
 Kids' animated explainers (Remotion, 1080x1920 vertical, 30fps) built over Adnaan Menk "Meaning of Surah X" YouTube Shorts audio.
 Done so far: Ikhlas (16:9, vertical, ES, FR), Naas (vertical), Falaq (vertical).
 
+**New video from a link: use the `surah-video` skill** (`.devin/skills/surah-video/SKILL.md`). It has scripts for prepare/new/stills/render, a template with every helper, and a scene-recipe catalog.
+
 ## Layout
 - Each Surah has a root folder (`ikhlas/`, `naas/`, `falaq/`) holding its timing map, transcript, source mp3, stills and renders.
 - `remotion/`: the Remotion project (`npm install` already done). Compositions are registered in `src/Root.tsx`.
